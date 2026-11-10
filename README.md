@@ -62,6 +62,6 @@ until there is a certificate: "More info" → "Run anyway".
 
 ## More
 
-- Product page: <https://pvsyst-connect.suntropy.ai>
+- Product page: <https://connect.suntropy.ai>
 - Suntropy: <https://suntropy.ai>
 - Support: reply to any Suntropy email or write from your Suntropy account.
