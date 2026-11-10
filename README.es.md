@@ -52,5 +52,5 @@ mientras no haya certificado: en «Más información» → «Ejecutar de todas f
 
 ## Más
 
-- Presentación: <https://pvsyst-connect.suntropy.ai>
+- Presentación: <https://connect.suntropy.ai>
 - Suntropy: <https://suntropy.ai>
